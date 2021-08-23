@@ -1,0 +1,10 @@
+
+"Task List Updater"
+by Rendell Ngo
+
+Terrible name I know, this is and is still my first python project.
+It's about 215 lines (not counting modules) and I spent like 2 days on it. Hope you find it useful!
+Thank yoo very much!
+
+Date finished: 8/13/2021
+Ver: 1.0
